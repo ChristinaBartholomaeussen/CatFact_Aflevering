@@ -1,6 +1,6 @@
 package com.example.controllers;
 
-import com.example.services.CatFacts;
+import com.example.models.CatFacts;
 import com.example.services.CatMethods;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;

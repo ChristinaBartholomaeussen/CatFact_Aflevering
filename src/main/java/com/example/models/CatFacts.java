@@ -1,7 +1,5 @@
-package com.example.services;
+package com.example.models;
 
-import java.time.format.DateTimeFormatter;
-import java.util.Comparator;
 import java.util.Date;
 
 public class CatFacts implements Comparable<CatFacts> {
